@@ -1,9 +1,7 @@
 ## About
 
-I am currently a PhD student in the <a
-href="https://pangea.stanford.edu/researchgroups/cesd/"
-target='_blank'>Climate and Earth System Dynamics</a> research group at
-Stanford. You can read more about my research and interests on <a href="https://fdavenport.github.io/" target='_blank'>my website</a>. 
+I am currently a PhD student in the [Climate and Earth System Dynamics](https://pangea.stanford.edu/researchgroups/cesd/) research group at
+Stanford. You can read more about my research and interests on [my website](https://fdavenport.github.io/).
 
 #### You can find my publication-related code in these repositories:
 
