@@ -1,7 +1,7 @@
 ## About
 
-I am currently a PhD student in the [Climate and Earth System Dynamics](https://pangea.stanford.edu/researchgroups/cesd/) research group at
-Stanford. You can read more about my research and interests on [my website](https://fdavenport.github.io/).
+I am currently a postdoc in the [Barnes Research Group](https://sites.google.com/view/barnesgroup-csu/home) at
+Colorado State University. You can read more about my research and interests on [my website](https://fdavenport.github.io/).
 
 #### You can find my publication-related code in these repositories:
 
